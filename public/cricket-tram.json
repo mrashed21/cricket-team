@@ -1,0 +1,122 @@
+[
+  {
+    "playerId": 1,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/9cxRZWW/Quinton-de-Kock.jpg",
+    "role": "Wicketkeeper",
+    "b_Type": "Left-Hand Bat",
+    "biddingPrice": 21000,
+    "rating": 9.5
+  },
+  {
+    "playerId": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/Fg03Wx4/Babar-Azam.jpg",
+    "role": "Batsman",
+    "b_Type": "Right-Hand Bat",
+    "biddingPrice": 18000,
+    "rating": 9.4
+  },
+  {
+    "playerId": 3,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/2kNmJfw/Ben-Stokes.jpg",
+    "role": "All-Rounder",
+    "b_Type": "Left-Hand Bat",
+    "biddingPrice": 22000,
+    "rating": 9.2
+  },
+  {
+    "playerId": 4,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/ZWzt9j9/Pat-Cummins.jpg",
+    "role": "Bowler",
+    "b_Type": "Right-Arm Fast",
+    "biddingPrice": 25000,
+    "rating": 9.3
+  },
+  {
+    "playerId": 5,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/7p22xNZ/Kane-Williamson.jpg",
+    "role": "Batsman",
+    "b_Type": "Right-Hand Bat",
+    "biddingPrice": 19000,
+    "rating": 9.0
+  },
+  {
+    "playerId": 6,
+    "name": "Angelo Mathews",
+    "country": "Sri Lanka",
+    "image": "https://i.ibb.co.com/chs9BBN/Angelo-Mathews.jpg",
+    "role": "All-Rounder",
+    "b_Type": "Right-Hand Bat",
+    "biddingPrice": 20000,
+    "rating": 9.1
+  },
+  {
+    "playerId": 7,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/8sLkKhY/Trent-Boult.jpg",
+    "role": "Bowler",
+    "b_Type": "Left-Arm Fast",
+    "biddingPrice": 23000,
+    "rating": 9.2
+  },
+  {
+    "playerId": 8,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/RhtH8rr/David-Warner.jpg",
+    "role": "Batsman",
+    "b_Type": "Left-Hand Bat",
+    "biddingPrice": 24000,
+    "rating": 9.0
+  },
+  {
+    "playerId": 9,
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/MBTh2gW/Tamim-Iqbal.jpg",
+    "role": "Batsman",
+    "b_Type": "Left-Hand Bat",
+    "biddingPrice": 19000,
+    "rating": 8.7
+  },
+  {
+    "playerId": 10,
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/brbFfBG/Kagiso-Rabada.jpg",
+    "role": "Bowler",
+    "b_Type": "Right-Arm Fast",
+    "biddingPrice": 22000,
+    "rating": 9.1
+  },
+  {
+    "playerId": 11,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/TvW2CRN/Rashid-Khan.jpg",
+    "role": "Bowler",
+    "b_Type": "Right-Arm Spin",
+    "biddingPrice": 20000,
+    "rating": 9.4
+  },
+  {
+    "playerId": 12,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/YPhF2m3/Andre-Russell.jpg",
+    "role": "All-Rounder",
+    "b_Type": "Right-Hand Bat",
+    "biddingPrice": 25000,
+    "rating": 9.3
+  }
+]
