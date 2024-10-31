@@ -3,7 +3,7 @@ import { ToastContainer, toast } from "react-toastify";
 import Newsletter from "./assets/components/Footer/Newsletter";
 import Banner from "./assets/components/Header/Banner";
 import Navbar from "./assets/components/Header/Navbar";
-import Players from "./assets/components/Main/players";
+import Player from "./assets/components/Main/Player";
 function App() {
   /* for credit */
   const [credit, setCredit] = useState(0);
@@ -68,7 +68,7 @@ function App() {
           progress: undefined,
           theme: "light",
         });
-        return
+        return;
       } else {
         reduceCredit(player.biddingPrice);
         const newPlayer = [...selectedPlayer, player];
@@ -99,13 +99,13 @@ function App() {
       <div className="max-w-[1280px] mx-auto">
         <Navbar credit={credit}></Navbar>
         <Banner handleCredit={handleCredit}></Banner>
-        <Players
+        <Player
           handleIsActiveBtn={handleIsActiveBtn}
           isActive={isActive}
           handleSelectedPlayer={handleSelectedPlayer}
           selectedPlayer={selectedPlayer}
           deletedPlayer={deletedPlayer}
-        ></Players>
+        ></Player>
         <Newsletter></Newsletter>
         <ToastContainer />
       </div>
