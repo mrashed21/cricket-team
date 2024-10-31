@@ -1,5 +1,4 @@
 import PropTypes from "prop-types";
-// import { toast } from "react-toastify";
 function Player({ player, handleSelectedPlayer }) {
   
   return (
@@ -39,7 +38,6 @@ function Player({ player, handleSelectedPlayer }) {
           <button
             onClick={() => {
               handleSelectedPlayer(player);
-              // succesNotify(player.name);
             }}
             className="btn bg-transparent text-sm"
           >
